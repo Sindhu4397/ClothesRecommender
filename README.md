@@ -1,6 +1,6 @@
 Title: Couple's Outfit Recommender System
 
-Technologies Used:Python,Scikit-Learn, TensorFlow,Azure,Jupyter Notebook
+Technologies Used:Python,Scikit-Learn, TensorFlow, AWS, Jupyter Notebook
 
 Project Highlights: Developed a clothing recommendation system to help couples choose matching outfits for various Indian events. Created a dataset based on research papers and analyzed color preferences and event types for recommendations. Utilized AWS SageMaker for model development and deployment. Overcame challenges of limited data availability and missing values to provide valuable clothing suggestions for users. Successfully implemented a system that considers weather, color preferences, and event type for clothing recommendations.
 
